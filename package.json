@@ -1,0 +1,23 @@
+{
+  "name": "jsfch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "fetch",
+    "jsfetch",
+    "neofetch"
+  ],
+  "author": "vj",
+  "license": "ISC",
+  "type": "module",
+  "description": "Simple JS version of fetch",
+  "bin": {
+    "jsfch": "./index.js"
+  },
+  "dependencies": {
+    "node": "^22.13.0"
+  }
+}
